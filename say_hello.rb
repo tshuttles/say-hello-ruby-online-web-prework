@@ -1,3 +1,4 @@
 say_hello("Gabriela")
-  puts "Hello World!"
+  name = Gabriela
+  puts "Hello " + name + "."
 end
